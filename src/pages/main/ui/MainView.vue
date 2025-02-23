@@ -76,7 +76,7 @@
 
       <div class="socialLinks">
         <a
-          href="https://t.me/your_telegram"
+          href="https://t.me/dev_cube"
           target="_blank"
           rel="noopener noreferrer"
           class="socialLink">
@@ -86,7 +86,7 @@
             class="socialIcon" />
         </a>
         <a
-          href="https://github.com/your_github"
+          href="https://github.com/dyakubovskiy"
           target="_blank"
           rel="noopener noreferrer"
           class="socialLink">
