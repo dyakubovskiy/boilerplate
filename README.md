@@ -51,6 +51,17 @@ src/
 git clone https://github.com/dyakubovskiy/boilerplate.git
 cd boilerplate
 
+# Удаление зависимости от текущего репозитория
+rm -rf .git
+
+# Инициализация нового репозитория
+git init
+git remote add origin https://github.com/username/new-project.git
+
+git add .
+git commit -m "Initial commit for new project"
+git push -u origin main
+
 # Установка зависимостей
 npm install
 
