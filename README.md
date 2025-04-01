@@ -104,7 +104,7 @@ npm run build
 
 ## 👨‍💻 Автор
 
-**Your Name**
+**Дмитрий Якубовский / Dmitiry Yakubovskiy**
 
 - Telegram: [@dev_cube](https://t.me/dev_cube)
 - GitHub: [@dyakubovskiy](https://github.com/dyakubovskiy)
